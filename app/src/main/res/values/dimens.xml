@@ -9,4 +9,5 @@
 
     <dimen name="widget_default_height">250dp</dimen>
     <dimen name="widget_default_width">250dp</dimen>
+    <dimen name="quote_list_item">72dp</dimen>
 </resources>
